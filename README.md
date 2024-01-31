@@ -36,4 +36,4 @@ sudo docker-compose up
 
 
 
-![image-20240131221816820](./images/1.png) 
+![image-1](https://github.com/Lu-jiajun/sdm/blob/master/images/1.png) 
