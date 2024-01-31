@@ -36,4 +36,4 @@ sudo docker-compose up
 
 
 
-![image-1](https://github.com/Lu-jiajun/sdm/blob/master/images/1.png) 
+![image-1](http://s79fwm27x.hb-bkt.clouddn.com/NEWS_AE31BC5CC89C7FCDE79013CA075B83DB.JPG) 
