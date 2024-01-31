@@ -4,7 +4,8 @@
 
 # 项目说明
 
-基于django-vue-admin 开发的学生宿舍管理系统完成于2023年12月，为数据库课程设计。
+基于[django-vue-admin](https://django-vue-admin.com) 开发的学生宿舍管理系统完成于2023年12月，为数据库课程设计。
+
 
 # 运行说明
 
