@@ -36,4 +36,4 @@ sudo docker-compose up
 
 
 
-![image-1](http://s79fwm27x.hb-bkt.clouddn.com/NEWS_AE31BC5CC89C7FCDE79013CA075B83DB.JPG) 
+![image-1](http://s79fwm27x.hb-bkt.clouddn.com/1.png) 
